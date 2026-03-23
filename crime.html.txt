@@ -1,0 +1,30 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Crime</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="box">
+<h2>Crime Details</h2>
+
+<select id="crime">
+<option>Theft</option>
+<option>Assault</option>
+<option>Cyber Crime</option>
+<option>Harassment</option>
+</select>
+
+<input id="incident" placeholder="What happened">
+<input id="accused" placeholder="Responsible person">
+<input id="relation" placeholder="Relationship">
+
+<textarea id="desc" placeholder="Description"></textarea>
+
+<button onclick="saveCrime()">Next</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

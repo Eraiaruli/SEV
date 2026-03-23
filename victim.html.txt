@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Victim</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="box">
+<h2>Victim Details</h2>
+
+<input id="name" placeholder="Name">
+<input id="age" placeholder="Age">
+<input id="sex" placeholder="Sex">
+<input id="designation" placeholder="Designation">
+<input id="phone" placeholder="Phone">
+<input id="email" placeholder="Email">
+<textarea id="address" placeholder="Address"></textarea>
+
+<button onclick="saveVictim()">Next</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

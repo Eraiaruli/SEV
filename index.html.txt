@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SEV Login</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="box">
+<h1>Silent Evidence Vault</h1>
+
+<input id="user" placeholder="Username">
+<input id="pass" type="password" placeholder="Password">
+
+<button onclick="nextPage('victim.html')">Login</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

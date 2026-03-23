@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Done</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="box">
+<h1>Thank You</h1>
+<p>Report submitted successfully.</p>
+</div>
+</body>
+</html>
